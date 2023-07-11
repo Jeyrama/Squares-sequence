@@ -17,3 +17,5 @@ function squares(x, n) {
   }
   return ret;
 }
+
+// or
